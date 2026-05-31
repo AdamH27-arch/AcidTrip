@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a6976294d0b0d4f803dfed95cfd56b, type: 3}
+  m_Name: Banana Data
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Banana
+  moveSpeed: 2.5
+  maxHealth: 10
+  contactDamage: 5
+  damageCooldown: 0.8
+  xpValue: 10
+  xpOrbPrefab: {fileID: 2162294502656314624, guid: a0532283226919447a091a2c2b96c203, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  scale: {x: 0.1, y: 0.1}

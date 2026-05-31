@@ -1,0 +1,3 @@
+repository "Game Two/Game Two@20067593604829@cloud"
+  path "/"
+    smartbranch "/main"
