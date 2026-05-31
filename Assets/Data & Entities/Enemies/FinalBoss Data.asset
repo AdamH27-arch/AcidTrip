@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a6976294d0b0d4f803dfed95cfd56b, type: 3}
+  m_Name: FinalBoss Data
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  possibleDrops: []
+  dealsContactDamage: 1
+  enemyName: Enemy
+  moveSpeed: 2.5
+  maxHealth: 1000
+  contactDamage: 10
+  damageCooldown: 0.8
+  xpValue: 10
+  xpOrbPrefab: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  scale: {x: 4, y: 4}
+  canDoRangedAttack: 0
+  bulletPrefab: {fileID: 0}
+  fireRate: 1.2
+  attackRange: 7
+  stopRange: 4
+  movementPattern: 0
+  preferredRange: 5
+  holdDuration: 2
+  advanceDuration: 2
+  retreatDuration: 1.5
+  zigzagFrequency: 3
+  zigzagAmplitude: 1.5
+  orbitRadius: 4
+  orbitSpeed: 2.5
+  sprintDuration: 0.4
+  freezeDuration: 0.5
+  fleeRange: 5
+  fleeSpeed: 4
+  chaseSpeed: 6
+  detectionAngle: 45
+  teleportDistance: 5
+  waitBeforeFire: 2
+  waitAfterFire: 3
+  projectileCount: 8
+  bulletSpeed: 5
+  TeleporterBullet: {fileID: 0}
+  timeTillBlast: 5
+  witchBlastPrefab: {fileID: 0}
+  witchBlastDamage: 5
+  ExplodesOnDeath: 0
+  ExplosionPrefab: {fileID: 0}
+  HobbitSpeed: 3
+  IronGolemSpearPrefab: {fileID: 0}
+  GolemSpeed: 3
+  spearCooldown: 2
+  golemChargeSpeed: 10
+  golemChargeDuration: 4
+  explodingHobbitPrefab: {fileID: 0}
+  lordOfHobbitsSpeed: 0
+  lightningBoltPrefab: {fileID: 8745470503063708625, guid: 47e2d5eebde28594aa4238570d221b56, type: 3}
+  lightningSpearPrefab: {fileID: 2801674472668515550, guid: bd95a8ac7fd72ff4bb1bdeca267c2af4, type: 3}
+  lightningArrowPrefab: {fileID: 0}
+  lightningBoltCount: 60
+  spearCount: 10
+  attackDuration: 3
+  attackCooldown: 1
+  spearBarrageDiagonalChance: 0.5

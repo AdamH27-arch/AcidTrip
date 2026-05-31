@@ -1,0 +1,5113 @@
+fileFormatVersion: 2
+guid: d8ac7d07f8324ee43bda8a84dd288d2f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbac4b743c5822d4e9edca996bda3757
+      internalID: -981176662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78beab41c4955d74a9bece7394cf3ef8
+      internalID: 10161844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08aeac6c33b22745bf7742867f35212
+      internalID: 2027708673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e2522ec92f26f4792173392da51d99
+      internalID: 1265360087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c397c97c9fd0d224cb50d2275f184c56
+      internalID: 432207772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfb8e329a30025409da622762b92056
+      internalID: -135741135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4266ac7e4207994db932f978f4f1d16
+      internalID: 573579766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e4c98e4756ab4c8aa593510947553
+      internalID: -459982883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d735d52d282d8541b29c3b20d7bc9fd
+      internalID: -1159291984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebba960c35fd7d499e18271a428bc2c
+      internalID: -1038648036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2206fc6da6f1d5a48aa7a29ad06c1363
+      internalID: 2014954453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed41ffd47bf44d6408cfb4e850ba0031
+      internalID: 1038321052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbe24028b1e1114f99e51adaf37d789
+      internalID: -148299531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 912
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c5439be31e2cc4eab832a3ee5d26f4
+      internalID: 357814396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d3aed21a212754b83a31c1a3d5504e
+      internalID: -1685122139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f62f1a707ff148bef4dba10c521f6
+      internalID: -1049251764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4c34f7a6040b948a3d3d4336c72469
+      internalID: 501493043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca4176aaa6697643802c6af9cf90781
+      internalID: 1675340678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a210deb2c472c6642873ab2ba3704469
+      internalID: 523976766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faa803b5edf2584296a515a3482d430
+      internalID: 2079903593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c753aff0f29b3084698e8c502221f901
+      internalID: -1951253121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cf2dc57c4577f4580166bda8d72d67
+      internalID: -1759416362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b362fb9b46bee804abccb7d5351ddd5a
+      internalID: 1332883186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dc986e509906d42a40ece217bfc142
+      internalID: 1924232593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e8b5f287c0854390c84d6432cc0ea
+      internalID: 1752929991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc463ab18a0ff7a4882b3d23b47de18c
+      internalID: 144879024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da4a91c89fa0fc4eb9ccc0feae57719
+      internalID: -1017252899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3c383cc335fb445a6132e276e69bb8
+      internalID: 1674431214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b932e19e461748a4a83776a2f00223d7
+      internalID: -350458370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8102cb326b63a143a95bbcc1e9cccbc
+      internalID: -896501309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85295f0039555114181d47cf2e628a2d
+      internalID: 1323403764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f849633f071ab45a85779a85deda50
+      internalID: -53701164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbf5ef6a1bc1af418093415e2a6f4a8
+      internalID: -1902118329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16feee5ffac4354bb570d7e0f5f5e12
+      internalID: 314267951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fc26dfa4fa7744194a75616a60726f
+      internalID: -1098975816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0db3d3e51fb67498088402e31a2e1b
+      internalID: 43850363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aefc8b305f1ec428696defcba3abe9
+      internalID: -1560790207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fedec0b317ea446893ae6705871d8b
+      internalID: -480815116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5abb040b5bb044b722f4b08f100a0
+      internalID: 1551147297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd93188619da3441b2fb1be0ccf4c15
+      internalID: 894463330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_40
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b440667983fdc848812c4d831daa7be
+      internalID: -1189964944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_41
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 864
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617825a5b4699ba4ebe6a69197c3f509
+      internalID: 250717274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 840
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba471f7892b6c54d8b5d0f72289634b
+      internalID: -365898677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 840
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780944049fcac1e4799f52c770a37eb8
+      internalID: -1843888306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 840
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf737761bac50a498efe9d449ee14f6
+      internalID: 1873446697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 840
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32be4f0f633984a84f741ac40a1d0d
+      internalID: -1198123416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 840
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21738030d1b34324592ee3eb19946f85
+      internalID: -879571305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 840
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b44ad4f25d8a544a9268953124e34f1
+      internalID: 1014449295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 840
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a315a77f4cdbac46a75162db9359a2a
+      internalID: -2082963711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e8c70c49415414cb3080fac1c82d9b
+      internalID: 1250774013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a11cc9137a97143af36a8cd4a34b81
+      internalID: -665009036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a735e280bdbdc8c4ca978324032fbac2
+      internalID: -1553022699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc3062d72f747048ae9a0c57e53143b
+      internalID: 170774161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e49fec5c5457974195d4be99fac5c29
+      internalID: -322380563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec48d616d18d3454d91bc6129d564622
+      internalID: -1453345773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6077d4c29a1414ba72857805f0bf7f
+      internalID: 1111358984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2433af100c1bb449666b68d109c6dd
+      internalID: -1332460774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d8f9f667df2d439b265c7e8a00bae
+      internalID: 1463325416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378908ed128c92741a5886b7ecdc65e3
+      internalID: 2053949853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1ba51202a3c174c858e51752dbbee9
+      internalID: -727111503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11788e5392ccc804faad205a3c9af217
+      internalID: -899717236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c97a13f5527740aa9755271590443
+      internalID: -1098873653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9d6a936902cac41a8edec8ab8a2256
+      internalID: -2073359304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_63
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2524157f6bc322f47a9517a0b734308e
+      internalID: -338198476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e29b9bd58096e41af8e0ee3fea8c26
+      internalID: -521757047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_65
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0fda2799a38154388e4d39a32c332b
+      internalID: -301837050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fe9023cff85b14b8eda1ef66c4b93f
+      internalID: -457825263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b200d3e48c2722f458552547c9ea9940
+      internalID: -1839571782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48154e6fb22d8174dbb9b944cce3b9f6
+      internalID: -1966677094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_69
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6436ffc20e90874d83b4452277dd341
+      internalID: -528359448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e77caa04a376439fc5008b0d55d34
+      internalID: -1598829641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feda6c781a5ba04daa3022efc8e9792
+      internalID: 1781843206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a231408cf6a0aba4c8bb4c63e59a6d5d
+      internalID: -324993921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_73
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e285139c6ffda2d4e940d02029f81367
+      internalID: -1535713996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76e1ac5a2de2a04fb719bd965b46333
+      internalID: 752377728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_75
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94aebb270558e24cbedd36dcb0bb60a
+      internalID: 1197480366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d542bd83f9dad4485eefb7de25a7c5
+      internalID: 323928994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e33aa58de58ec43a186d306f10a593
+      internalID: -171592849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e612f2f4115e4784b8961525add5dd57
+      internalID: -657551030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4017418f4fa8a6b4b880bd2cbbba8572
+      internalID: 1428355572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69085878bf77e9b4dbc22c666feaf6c5
+      internalID: 1980300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116d03b98fd7bc0418da353940b6f67c
+      internalID: 734230244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfa6e99077121746bc9d0e1ba0d8bbc
+      internalID: 433055058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd7f9d62fb48954399f7ec77e384cc5
+      internalID: 2034888092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dc3d3b2a31d8b428979c84dfe81931
+      internalID: 132932147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_85
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe06129be5dc1464e86ad02fdf12383e
+      internalID: 305809302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20d07cb378b4ef4e839be71b743fcf1
+      internalID: -309331135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_87
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a8d9ab379892b48b26a7387236feb4
+      internalID: -196548590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_88
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbce9aa436cae743b3f76be4d4ca851
+      internalID: 750042743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_89
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41482ce2df208884aac0b26bb3876eeb
+      internalID: 3321080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_90
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 744
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1386f82d4a9bc4583d7e8e8abf3a82
+      internalID: 1676922127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_91
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b61f0eba24b1ee45b67fdc3c552992e
+      internalID: 1800515040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260d0518791aa2c4eb7196d0f1e97bd3
+      internalID: -88709676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445a010614fa01d4eb7edd397912a247
+      internalID: -1025097644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61783b404352d1f468bdf3f91b74ee74
+      internalID: -817315867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2e80c50ef9b6f4e9bdde59189c1274
+      internalID: -1096436574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dff9ad398fa8643ba9e89ac47e5b17
+      internalID: -1155933735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_97
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b6854f508b77746ab32f332b00efc8
+      internalID: -1887386872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e2c2ff274d3dd42a9ab001330500f6
+      internalID: -777459444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_99
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ebc8456a816064d9c8a305a5c6216c
+      internalID: -1863847207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d15f294c53bf048afc3957543b912e
+      internalID: 1832166905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_101
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4856e4033c588b440a9563e34cc6a31f
+      internalID: 977775467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62e64f092e4434dafc93c7bdda1353
+      internalID: 2122848551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253cd326ba2ead645b3f33c134c87f37
+      internalID: -259789797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_104
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dfc5bb3e0b9ab4ebca691daa44dd82
+      internalID: 881611577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9580c44a76d1a245a92b0a0aae5dc37
+      internalID: -242141602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e23c9c6f49244e833b52b3b67c811
+      internalID: -1558620174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_107
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa72e441c784e114fbd69e25d093fe1f
+      internalID: 143504424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7503971180dcf8f49a796eb5d3e66b29
+      internalID: 1664408555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_109
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d782d5a1c2481a46b6dc8625a582b94
+      internalID: -407636178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4919820167c30504b9027026bc53ff9d
+      internalID: 1152461014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_111
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a83653bff0ddf4e84b9e91932b8dd1
+      internalID: -930725079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_112
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509335075ab0e44b93d14e7dd696869
+      internalID: 862396916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a6990864f11ad469f4e233ed976965
+      internalID: -155164931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_114
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca3d2f80bb125c499ec88fd2a8c0406
+      internalID: -1984293926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020ce08760660246a1d8bfe74cce67c
+      internalID: 199539482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_116
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013a888181bedad4d91d5351b835b63b
+      internalID: 1153594426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_117
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ab57295c720074193f0c32022a1da9
+      internalID: -628573384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_118
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1a7cd75bddec844af36fb3268e3f11
+      internalID: -1699067239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c20da6c06b50674ea0d80b0fc757371
+      internalID: -1568759620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297b2e65ba9c2104f8f46f3360addca6
+      internalID: -103741732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b9d316df9439b4e98b11fa6b2b5a1d
+      internalID: 754814397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_122
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df253fe7ea7c349832433686e23c31
+      internalID: 2021870960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825e7cd9ed00211448b26cbeb258c869
+      internalID: -1359234631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_124
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bedd690c734ed488adab573a24e41b
+      internalID: 707280337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_125
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fd31995043ede429005b192173cb59
+      internalID: 1099853075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_126
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45572deb01d1e24b921cb506e5e6644
+      internalID: 1172845526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_127
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6542bd4444c5e1418769a6b6e339877
+      internalID: -858606007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_128
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d95f807d6a81f742bdc22473a836ad0
+      internalID: 311607500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d22200625e9a0448bfd166c2be1cad7
+      internalID: -2042515957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_130
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c01c835e7fb7c4cbfdcc6ac51f09db
+      internalID: 1116194080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471a26ddf0a8cab4d889efc2fc70fd98
+      internalID: -1119863883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_132
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2969a56d1b4bc58408815665ca2d1201
+      internalID: 933626303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fa40dbb9a56824db1f2c4df31a2209
+      internalID: 1259251858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_134
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a19df16080f97d42828871ed23418a0
+      internalID: -2121033009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da137fd05cf56b3478c0e4e9925fa91d
+      internalID: 2107415158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_136
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c55901a514234c9bcdab6c39ffc36
+      internalID: 1450884692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e17f05136aac42b8e3a4db7f8a092
+      internalID: -609996782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_138
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380955988de5cf34891aeaf993282ac7
+      internalID: -1046169770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_139
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b59212f9563c584b95805ef0d153e02
+      internalID: 1345420667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_140
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fe5c065d98fa6428295f1c34de1c59
+      internalID: -2007612246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_141
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c6b8342981bb34e9b2ab686e7cbe76
+      internalID: 1530167877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_142
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2143fdf44d545184fb413a3a591c472e
+      internalID: 1065614032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf6673920379484b941e4026a89b3c0
+      internalID: -1298213590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_144
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5737460928f4f8e4484a555e211e2906
+      internalID: -294953307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_145
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8adb27524891a44b2711244aff8f0b
+      internalID: -656593711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_146
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a0dbda6f45d6147a31ffa7bf4328b8
+      internalID: -1757943704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b172130844370fd42afe2f2eb2762f98
+      internalID: 1126681458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_148
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304060f985acef54b9c253a762e7fa78
+      internalID: 701100782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fccbe6e3e7324409c760714a732c35
+      internalID: 471901644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_150
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2064e3db62b97534ea2e633947daab1e
+      internalID: 276248910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_151
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0609978bf6320f448611ced9d5a29d9
+      internalID: 555644266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_152
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eba1402c236b4243b8c5670b048fa66
+      internalID: -1812857756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_153
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f191e77f0600b4fa14abc3296a501f
+      internalID: 893136151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_154
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d0b4dcd8dfba47a6419e304da7618
+      internalID: 1862996504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab390f233407194ab206892fe04a9cb
+      internalID: -493066832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_156
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a961f74d3c5ec84a83367222233ac8d
+      internalID: 359415231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd372ce52914f5479e51a104a7b4c81
+      internalID: -172996395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_158
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f924f9cc9f8f74888755936895fa90
+      internalID: -1018693917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd30dfe6cb657a64a93a984039544970
+      internalID: 1134982774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_160
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0b121586c385f47beac7ded26f66d4
+      internalID: -378511887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_161
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0e6250096d92247a8b8806fa0559f3
+      internalID: 1839542587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_162
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c910d0901e51d46a75b24b1df621b7
+      internalID: -1855493781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_163
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4477b0bdb9cc9fc4387ddbe812961f15
+      internalID: 950780801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_164
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ae5ca6be40fc04bb8faeab20c679e8
+      internalID: -1066122559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_165
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44006ef60178c4d9c5d2e698cb0c9a
+      internalID: 1917757483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_166
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f9267a71606d4e8c21eb67269fe5e
+      internalID: 1883141458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_167
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a419fda3347d5468983b17c1c305fe
+      internalID: 1741168314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662045fb6f93750498ff31ad42cffe1e
+      internalID: -2031157479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_169
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4668b260aa86d8f44b80d5f49ec038bd
+      internalID: -1090775549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_170
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cf29e130ec4ba4db81da4cbadf5e14
+      internalID: -1899754731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_171
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a905ed16706df804ebdc38574191d6ce
+      internalID: -1060496201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fec2e7b64e9ef49a6aaf0552f52e75
+      internalID: 1943722435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_173
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2bdef5a4c87514e92f87b316d1f646
+      internalID: 1142224504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_174
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d63efaa88a45924c8f2d301e25f67c9
+      internalID: -1251550844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_175
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b0c8e95b1f0ed49a19a7a96a5ca92a
+      internalID: -751021071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9c6f1d65a053f46904a1e9968e5811
+      internalID: -2084120981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_177
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7c5e8d39b4a4a479fd488415cb3369
+      internalID: -1150239420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_178
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3bce49e5f731d45a6327051e2e0ff8
+      internalID: 2091521825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_179
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cb9c4bfec8f3245bfd508ea1c8def6
+      internalID: -625637045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_180
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed9f2bef33cfe04aa8dae14ccfafe31
+      internalID: 575200443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_181
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292ae278df4bccd4ab66d9a1b4aacce7
+      internalID: 2020691606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8ae0f523809d74da54d8312795e8a3
+      internalID: -1931644343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_183
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d0d220766c8a14da43108f1b0a5155
+      internalID: 640363761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_184
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b1ff59c974a644abf7852021ac16ab
+      internalID: 1357184023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_185
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37c202bfae46a146acd177dbe946b6c
+      internalID: 848017107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_186
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefbcea430febea4a86f169f249ce66b
+      internalID: 85108637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_187
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512b6e51ae9be144993b8361e8432bdb
+      internalID: -2119975840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_188
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73741e620101f3d47baab41e6580f650
+      internalID: -1027565602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_189
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbdcd76d1f6ae147b24bda002e12fb4
+      internalID: -390831702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_190
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50da2a186806a0940bc12e9546ef8754
+      internalID: -1856430773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_191
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecc3a83e4c84034587b55cf37030309
+      internalID: 1065988696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_192
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67453de358ff7aa46b0155ad064159fb
+      internalID: 350102677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_193
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96eacd4c03d5ad47964f6c4d3ee5a50
+      internalID: 1342395168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_194
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3248623bd3f564ab02d249a456c229
+      internalID: 2109013088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_195
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0fa8e361d158f4a9f3fe2e3d1fa0e2
+      internalID: -1574725683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_196
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9fb8fb32848c64d99b166862f2ef49
+      internalID: 781002160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_197
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4345a5d0e9e23394c93cc2fa5b2b0808
+      internalID: 156803107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed31725097871674baac066b9b2f7b53
+      internalID: 2124358017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_199
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16af89a82c64e8341af5f658fa327004
+      internalID: 209050997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_200
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60536d604da5c71459b425837b2317ed
+      internalID: -563831380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_201
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167d437bd6ccb584295edc7880d519cf
+      internalID: -1372118174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4762c1e1f5c3e1349ba49f07e0926f36
+      internalID: -1810573952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_203
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5116a469b97f95e4d8c4a39766549008
+      internalID: 1775043877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_204
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ffd5001c2949c429dc9cd1388f230b
+      internalID: -1173239837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_205
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847a8ec5a284d92458f2e4ee57b80c0f
+      internalID: 1879271270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_206
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1d0a61d55ff4d4f98dcb02ebd319cb
+      internalID: 1630717210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_207
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a80806ed8eda84cad3945b62292df3
+      internalID: 342052128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_208
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f384e59abcf2b4c8b6c1527f1081f7
+      internalID: -75963062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_209
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba8bc7af5b9f17438919022e120fc8e
+      internalID: 1650241221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_210
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeae19ccbd1bc0549b279d64d328d9eb
+      internalID: -1752465619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_211
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070c65cdbfa67804c932bccfadb48d9e
+      internalID: -1372485395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8e1c96f889b5f4da781147f48a8ccb
+      internalID: 365209394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_213
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8c33c2e34a25949800dad1242553d4
+      internalID: 386174049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_214
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcd3b41ac9915949b2dcd21dd6fbeb4
+      internalID: -1041084073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_215
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388d619c0fc629f4ea5b596673675e77
+      internalID: 1220773046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_216
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e387ff98c361b3042adbfde94cf610d2
+      internalID: 1303409908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_217
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85fb6ff43e3b04c92575ae25279b1c
+      internalID: -245405889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_218
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1985127c2264b46bd792c243592912
+      internalID: -103924241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_219
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09d3ad7c5f22c941ac11ac0fa7c0499
+      internalID: -353033665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_220
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0df5d66adbc048860b5b50a5f197f
+      internalID: -937862607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_221
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01188858f6110134aa48b8b3e7fb7110
+      internalID: 2100636219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_222
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eee906befb2db741bb014ecb96e2c38
+      internalID: 725298837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_223
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10415fec2357fa64a849551dcfa07df6
+      internalID: -11669479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_224
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d6b9c4001c2a43a7d17bc3debade5
+      internalID: -242918890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuttyKreum_JapanCollection_Icons_24x24_225
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109a2bb62fad50946a035f2a654a8367
+      internalID: 362870663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GuttyKreum_JapanCollection_Icons_24x24_172: 1943722435
+      GuttyKreum_JapanCollection_Icons_24x24_72: -324993921
+      GuttyKreum_JapanCollection_Icons_24x24_123: -1359234631
+      GuttyKreum_JapanCollection_Icons_24x24_2: 2027708673
+      GuttyKreum_JapanCollection_Icons_24x24_43: -1843888306
+      GuttyKreum_JapanCollection_Icons_24x24_209: 1650241221
+      GuttyKreum_JapanCollection_Icons_24x24_37: -480815116
+      GuttyKreum_JapanCollection_Icons_24x24_151: 555644266
+      GuttyKreum_JapanCollection_Icons_24x24_15: -1049251764
+      GuttyKreum_JapanCollection_Icons_24x24_46: -879571305
+      GuttyKreum_JapanCollection_Icons_24x24_157: -172996395
+      GuttyKreum_JapanCollection_Icons_24x24_152: -1812857756
+      GuttyKreum_JapanCollection_Icons_24x24_133: 1259251858
+      GuttyKreum_JapanCollection_Icons_24x24_187: -2119975840
+      GuttyKreum_JapanCollection_Icons_24x24_34: -1098975816
+      GuttyKreum_JapanCollection_Icons_24x24_184: 1357184023
+      GuttyKreum_JapanCollection_Icons_24x24_198: 2124358017
+      GuttyKreum_JapanCollection_Icons_24x24_176: -2084120981
+      GuttyKreum_JapanCollection_Icons_24x24_119: -1568759620
+      GuttyKreum_JapanCollection_Icons_24x24_12: -148299531
+      GuttyKreum_JapanCollection_Icons_24x24_210: -1752465619
+      GuttyKreum_JapanCollection_Icons_24x24_36: -1560790207
+      GuttyKreum_JapanCollection_Icons_24x24_48: -2082963711
+      GuttyKreum_JapanCollection_Icons_24x24_73: -1535713996
+      GuttyKreum_JapanCollection_Icons_24x24_212: 365209394
+      GuttyKreum_JapanCollection_Icons_24x24_207: 342052128
+      GuttyKreum_JapanCollection_Icons_24x24_136: 1450884692
+      GuttyKreum_JapanCollection_Icons_24x24_68: -1966677094
+      GuttyKreum_JapanCollection_Icons_24x24_147: 1126681458
+      GuttyKreum_JapanCollection_Icons_24x24_185: 848017107
+      GuttyKreum_JapanCollection_Icons_24x24_129: -2042515957
+      GuttyKreum_JapanCollection_Icons_24x24_116: 1153594426
+      GuttyKreum_JapanCollection_Icons_24x24_224: -242918890
+      GuttyKreum_JapanCollection_Icons_24x24_211: -1372485395
+      GuttyKreum_JapanCollection_Icons_24x24_42: -365898677
+      GuttyKreum_JapanCollection_Icons_24x24_177: -1150239420
+      GuttyKreum_JapanCollection_Icons_24x24_121: 754814397
+      GuttyKreum_JapanCollection_Icons_24x24_205: 1879271270
+      GuttyKreum_JapanCollection_Icons_24x24_102: 2122848551
+      GuttyKreum_JapanCollection_Icons_24x24_208: -75963062
+      GuttyKreum_JapanCollection_Icons_24x24_59: -727111503
+      GuttyKreum_JapanCollection_Icons_24x24_53: -322380563
+      GuttyKreum_JapanCollection_Icons_24x24_79: 1428355572
+      GuttyKreum_JapanCollection_Icons_24x24_166: 1883141458
+      GuttyKreum_JapanCollection_Icons_24x24_223: -11669479
+      GuttyKreum_JapanCollection_Icons_24x24_159: 1134982774
+      GuttyKreum_JapanCollection_Icons_24x24_144: -294953307
+      GuttyKreum_JapanCollection_Icons_24x24_99: -1863847207
+      GuttyKreum_JapanCollection_Icons_24x24_221: 2100636219
+      GuttyKreum_JapanCollection_Icons_24x24_44: 1873446697
+      GuttyKreum_JapanCollection_Icons_24x24_60: -899717236
+      GuttyKreum_JapanCollection_Icons_24x24_108: 1664408555
+      GuttyKreum_JapanCollection_Icons_24x24_96: -1155933735
+      GuttyKreum_JapanCollection_Icons_24x24_171: -1060496201
+      GuttyKreum_JapanCollection_Icons_24x24_134: -2121033009
+      GuttyKreum_JapanCollection_Icons_24x24_75: 1197480366
+      GuttyKreum_JapanCollection_Icons_24x24_158: -1018693917
+      GuttyKreum_JapanCollection_Icons_24x24_162: -1855493781
+      GuttyKreum_JapanCollection_Icons_24x24_17: 1675340678
+      GuttyKreum_JapanCollection_Icons_24x24_63: -338198476
+      GuttyKreum_JapanCollection_Icons_24x24_49: 1250774013
+      GuttyKreum_JapanCollection_Icons_24x24_222: 725298837
+      GuttyKreum_JapanCollection_Icons_24x24_218: -103924241
+      GuttyKreum_JapanCollection_Icons_24x24_45: -1198123416
+      GuttyKreum_JapanCollection_Icons_24x24_225: 362870663
+      GuttyKreum_JapanCollection_Icons_24x24_66: -457825263
+      GuttyKreum_JapanCollection_Icons_24x24_181: 2020691606
+      GuttyKreum_JapanCollection_Icons_24x24_76: 323928994
+      GuttyKreum_JapanCollection_Icons_24x24_82: 433055058
+      GuttyKreum_JapanCollection_Icons_24x24_52: 170774161
+      GuttyKreum_JapanCollection_Icons_24x24_51: -1553022699
+      GuttyKreum_JapanCollection_Icons_24x24_24: 1752929991
+      GuttyKreum_JapanCollection_Icons_24x24_160: -378511887
+      GuttyKreum_JapanCollection_Icons_24x24_7: -459982883
+      GuttyKreum_JapanCollection_Icons_24x24_74: 752377728
+      GuttyKreum_JapanCollection_Icons_24x24_156: 359415231
+      GuttyKreum_JapanCollection_Icons_24x24_141: 1530167877
+      GuttyKreum_JapanCollection_Icons_24x24_125: 1099853075
+      GuttyKreum_JapanCollection_Icons_24x24_92: -88709676
+      GuttyKreum_JapanCollection_Icons_24x24_112: 862396916
+      GuttyKreum_JapanCollection_Icons_24x24_64: -521757047
+      GuttyKreum_JapanCollection_Icons_24x24_27: 1674431214
+      GuttyKreum_JapanCollection_Icons_24x24_0: -981176662
+      GuttyKreum_JapanCollection_Icons_24x24_163: 950780801
+      GuttyKreum_JapanCollection_Icons_24x24_50: -665009036
+      GuttyKreum_JapanCollection_Icons_24x24_18: 523976766
+      GuttyKreum_JapanCollection_Icons_24x24_21: -1759416362
+      GuttyKreum_JapanCollection_Icons_24x24_194: 2109013088
+      GuttyKreum_JapanCollection_Icons_24x24_33: 314267951
+      GuttyKreum_JapanCollection_Icons_24x24_22: 1332883186
+      GuttyKreum_JapanCollection_Icons_24x24_220: -937862607
+      GuttyKreum_JapanCollection_Icons_24x24_14: -1685122139
+      GuttyKreum_JapanCollection_Icons_24x24_90: 1676922127
+      GuttyKreum_JapanCollection_Icons_24x24_11: 1038321052
+      GuttyKreum_JapanCollection_Icons_24x24_110: 1152461014
+      GuttyKreum_JapanCollection_Icons_24x24_143: -1298213590
+      GuttyKreum_JapanCollection_Icons_24x24_1: 10161844
+      GuttyKreum_JapanCollection_Icons_24x24_67: -1839571782
+      GuttyKreum_JapanCollection_Icons_24x24_192: 350102677
+      GuttyKreum_JapanCollection_Icons_24x24_135: 2107415158
+      GuttyKreum_JapanCollection_Icons_24x24_9: -1038648036
+      GuttyKreum_JapanCollection_Icons_24x24_104: 881611577
+      GuttyKreum_JapanCollection_Icons_24x24_16: 501493043
+      GuttyKreum_JapanCollection_Icons_24x24_113: -155164931
+      GuttyKreum_JapanCollection_Icons_24x24_39: 894463330
+      GuttyKreum_JapanCollection_Icons_24x24_118: -1699067239
+      GuttyKreum_JapanCollection_Icons_24x24_154: 1862996504
+      GuttyKreum_JapanCollection_Icons_24x24_131: -1119863883
+      GuttyKreum_JapanCollection_Icons_24x24_20: -1951253121
+      GuttyKreum_JapanCollection_Icons_24x24_201: -1372118174
+      GuttyKreum_JapanCollection_Icons_24x24_196: 781002160
+      GuttyKreum_JapanCollection_Icons_24x24_114: -1984293926
+      GuttyKreum_JapanCollection_Icons_24x24_142: 1065614032
+      GuttyKreum_JapanCollection_Icons_24x24_179: -625637045
+      GuttyKreum_JapanCollection_Icons_24x24_71: 1781843206
+      GuttyKreum_JapanCollection_Icons_24x24_13: 357814396
+      GuttyKreum_JapanCollection_Icons_24x24_215: 1220773046
+      GuttyKreum_JapanCollection_Icons_24x24_127: -858606007
+      GuttyKreum_JapanCollection_Icons_24x24_126: 1172845526
+      GuttyKreum_JapanCollection_Icons_24x24_180: 575200443
+      GuttyKreum_JapanCollection_Icons_24x24_115: 199539482
+      GuttyKreum_JapanCollection_Icons_24x24_31: -53701164
+      GuttyKreum_JapanCollection_Icons_24x24_111: -930725079
+      GuttyKreum_JapanCollection_Icons_24x24_30: 1323403764
+      GuttyKreum_JapanCollection_Icons_24x24_122: 2021870960
+      GuttyKreum_JapanCollection_Icons_24x24_161: 1839542587
+      GuttyKreum_JapanCollection_Icons_24x24_214: -1041084073
+      GuttyKreum_JapanCollection_Icons_24x24_106: -1558620174
+      GuttyKreum_JapanCollection_Icons_24x24_55: 1111358984
+      GuttyKreum_JapanCollection_Icons_24x24_191: 1065988696
+      GuttyKreum_JapanCollection_Icons_24x24_56: -1332460774
+      GuttyKreum_JapanCollection_Icons_24x24_105: -242141602
+      GuttyKreum_JapanCollection_Icons_24x24_200: -563831380
+      GuttyKreum_JapanCollection_Icons_24x24_47: 1014449295
+      GuttyKreum_JapanCollection_Icons_24x24_155: -493066832
+      GuttyKreum_JapanCollection_Icons_24x24_217: -245405889
+      GuttyKreum_JapanCollection_Icons_24x24_204: -1173239837
+      GuttyKreum_JapanCollection_Icons_24x24_86: -309331135
+      GuttyKreum_JapanCollection_Icons_24x24_145: -656593711
+      GuttyKreum_JapanCollection_Icons_24x24_130: 1116194080
+      GuttyKreum_JapanCollection_Icons_24x24_138: -1046169770
+      GuttyKreum_JapanCollection_Icons_24x24_58: 2053949853
+      GuttyKreum_JapanCollection_Icons_24x24_195: -1574725683
+      GuttyKreum_JapanCollection_Icons_24x24_124: 707280337
+      GuttyKreum_JapanCollection_Icons_24x24_202: -1810573952
+      GuttyKreum_JapanCollection_Icons_24x24_178: 2091521825
+      GuttyKreum_JapanCollection_Icons_24x24_190: -1856430773
+      GuttyKreum_JapanCollection_Icons_24x24_91: 1800515040
+      GuttyKreum_JapanCollection_Icons_24x24_107: 143504424
+      GuttyKreum_JapanCollection_Icons_24x24_189: -390831702
+      GuttyKreum_JapanCollection_Icons_24x24_206: 1630717210
+      GuttyKreum_JapanCollection_Icons_24x24_153: 893136151
+      GuttyKreum_JapanCollection_Icons_24x24_148: 701100782
+      GuttyKreum_JapanCollection_Icons_24x24_128: 311607500
+      GuttyKreum_JapanCollection_Icons_24x24_89: 3321080
+      GuttyKreum_JapanCollection_Icons_24x24_120: -103741732
+      GuttyKreum_JapanCollection_Icons_24x24_88: 750042743
+      GuttyKreum_JapanCollection_Icons_24x24_216: 1303409908
+      GuttyKreum_JapanCollection_Icons_24x24_193: 1342395168
+      GuttyKreum_JapanCollection_Icons_24x24_5: -135741135
+      GuttyKreum_JapanCollection_Icons_24x24_132: 933626303
+      GuttyKreum_JapanCollection_Icons_24x24_140: -2007612246
+      GuttyKreum_JapanCollection_Icons_24x24_182: -1931644343
+      GuttyKreum_JapanCollection_Icons_24x24_173: 1142224504
+      GuttyKreum_JapanCollection_Icons_24x24_93: -1025097644
+      GuttyKreum_JapanCollection_Icons_24x24_84: 132932147
+      GuttyKreum_JapanCollection_Icons_24x24_167: 1741168314
+      GuttyKreum_JapanCollection_Icons_24x24_87: -196548590
+      GuttyKreum_JapanCollection_Icons_24x24_29: -896501309
+      GuttyKreum_JapanCollection_Icons_24x24_117: -628573384
+      GuttyKreum_JapanCollection_Icons_24x24_95: -1096436574
+      GuttyKreum_JapanCollection_Icons_24x24_164: -1066122559
+      GuttyKreum_JapanCollection_Icons_24x24_70: -1598829641
+      GuttyKreum_JapanCollection_Icons_24x24_139: 1345420667
+      GuttyKreum_JapanCollection_Icons_24x24_65: -301837050
+      GuttyKreum_JapanCollection_Icons_24x24_219: -353033665
+      GuttyKreum_JapanCollection_Icons_24x24_150: 276248910
+      GuttyKreum_JapanCollection_Icons_24x24_19: 2079903593
+      GuttyKreum_JapanCollection_Icons_24x24_26: -1017252899
+      GuttyKreum_JapanCollection_Icons_24x24_10: 2014954453
+      GuttyKreum_JapanCollection_Icons_24x24_146: -1757943704
+      GuttyKreum_JapanCollection_Icons_24x24_78: -657551030
+      GuttyKreum_JapanCollection_Icons_24x24_81: 734230244
+      GuttyKreum_JapanCollection_Icons_24x24_35: 43850363
+      GuttyKreum_JapanCollection_Icons_24x24_101: 977775467
+      GuttyKreum_JapanCollection_Icons_24x24_85: 305809302
+      GuttyKreum_JapanCollection_Icons_24x24_8: -1159291984
+      GuttyKreum_JapanCollection_Icons_24x24_57: 1463325416
+      GuttyKreum_JapanCollection_Icons_24x24_40: -1189964944
+      GuttyKreum_JapanCollection_Icons_24x24_174: -1251550844
+      GuttyKreum_JapanCollection_Icons_24x24_6: 573579766
+      GuttyKreum_JapanCollection_Icons_24x24_62: -2073359304
+      GuttyKreum_JapanCollection_Icons_24x24_109: -407636178
+      GuttyKreum_JapanCollection_Icons_24x24_54: -1453345773
+      GuttyKreum_JapanCollection_Icons_24x24_175: -751021071
+      GuttyKreum_JapanCollection_Icons_24x24_97: -1887386872
+      GuttyKreum_JapanCollection_Icons_24x24_77: -171592849
+      GuttyKreum_JapanCollection_Icons_24x24_38: 1551147297
+      GuttyKreum_JapanCollection_Icons_24x24_149: 471901644
+      GuttyKreum_JapanCollection_Icons_24x24_25: 144879024
+      GuttyKreum_JapanCollection_Icons_24x24_188: -1027565602
+      GuttyKreum_JapanCollection_Icons_24x24_23: 1924232593
+      GuttyKreum_JapanCollection_Icons_24x24_103: -259789797
+      GuttyKreum_JapanCollection_Icons_24x24_4: 432207772
+      GuttyKreum_JapanCollection_Icons_24x24_94: -817315867
+      GuttyKreum_JapanCollection_Icons_24x24_165: 1917757483
+      GuttyKreum_JapanCollection_Icons_24x24_41: 250717274
+      GuttyKreum_JapanCollection_Icons_24x24_170: -1899754731
+      GuttyKreum_JapanCollection_Icons_24x24_199: 209050997
+      GuttyKreum_JapanCollection_Icons_24x24_203: 1775043877
+      GuttyKreum_JapanCollection_Icons_24x24_83: 2034888092
+      GuttyKreum_JapanCollection_Icons_24x24_100: 1832166905
+      GuttyKreum_JapanCollection_Icons_24x24_197: 156803107
+      GuttyKreum_JapanCollection_Icons_24x24_168: -2031157479
+      GuttyKreum_JapanCollection_Icons_24x24_186: 85108637
+      GuttyKreum_JapanCollection_Icons_24x24_28: -350458370
+      GuttyKreum_JapanCollection_Icons_24x24_169: -1090775549
+      GuttyKreum_JapanCollection_Icons_24x24_69: -528359448
+      GuttyKreum_JapanCollection_Icons_24x24_32: -1902118329
+      GuttyKreum_JapanCollection_Icons_24x24_61: -1098873653
+      GuttyKreum_JapanCollection_Icons_24x24_137: -609996782
+      GuttyKreum_JapanCollection_Icons_24x24_183: 640363761
+      GuttyKreum_JapanCollection_Icons_24x24_98: -777459444
+      GuttyKreum_JapanCollection_Icons_24x24_3: 1265360087
+      GuttyKreum_JapanCollection_Icons_24x24_80: 1980300442
+      GuttyKreum_JapanCollection_Icons_24x24_213: 386174049
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 222375
+  packageName: 'The Japan Collection: Icons'
+  packageVersion: 1.0
+  assetPath: Assets/Gutty Kreum/Icons/Tilemap_24x24_icons/GuttyKreum_JapanCollection_Icons_24x24.png
+  uploadId: 500172

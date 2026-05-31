@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a6976294d0b0d4f803dfed95cfd56b, type: 3}
+  m_Name: Dragon Data
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  possibleDrops:
+  - item: {fileID: 11400000, guid: 6e48379433e244e4cbfb1617f7727dcf, type: 2}
+    dropChance: 3.2
+  - item: {fileID: 11400000, guid: a40579d88a240c14aace3035f8f0ce9c, type: 2}
+    dropChance: 2.7
+  dealsContactDamage: 1
+  enemyName: Dragon
+  moveSpeed: 3
+  maxHealth: 30
+  contactDamage: 20
+  damageCooldown: 1.5
+  xpValue: 50
+  xpOrbPrefab: {fileID: 2162294502656314624, guid: a0532283226919447a091a2c2b96c203, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  scale: {x: 1, y: 1}
+  canDoRangedAttack: 0
+  bulletPrefab: {fileID: 0}
+  fireRate: 1.2
+  attackRange: 7
+  stopRange: 4
+  movementPattern: 0
+  preferredRange: 0
+  holdDuration: 0
+  advanceDuration: 10
+  retreatDuration: 1
+  zigzagFrequency: 0
+  zigzagAmplitude: 0
+  orbitRadius: 0
+  orbitSpeed: 0
+  sprintDuration: 0
+  freezeDuration: 0
+  fleeRange: 0
+  fleeSpeed: 0
+  chaseSpeed: 6
+  detectionAngle: 45
+  teleportDistance: 5
+  waitBeforeFire: 2
+  waitAfterFire: 3
+  projectileCount: 8
+  bulletSpeed: 5
+  TeleporterBullet: {fileID: 0}
+  ExplodesOnDeath: 0
+  ExplosionPrefab: {fileID: 0}
+  HobbitSpeed: 3
+  lightningBoltPrefab: {fileID: 0}
+  lightningSpearPrefab: {fileID: 0}
+  lightningArrowPrefab: {fileID: 0}
+  lightningBoltCount: 6
+  attackDuration: 3
+  attackCooldown: 2
+  spearBarrageDiagonalChance: 0.5

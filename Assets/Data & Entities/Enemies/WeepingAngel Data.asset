@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a6976294d0b0d4f803dfed95cfd56b, type: 3}
+  m_Name: WeepingAngel Data
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  possibleDrops:
+  - item: {fileID: 11400000, guid: 88602125cef083443989bed4bf4e0bba, type: 2}
+    dropChance: 9.5
+  - item: {fileID: 11400000, guid: fb040254801f0e34db3f499017fd0163, type: 2}
+    dropChance: 5.9
+  dealsContactDamage: 1
+  enemyName: Enemy
+  moveSpeed: 2.5
+  maxHealth: 20
+  contactDamage: 10
+  damageCooldown: 0.8
+  xpValue: 35
+  xpOrbPrefab: {fileID: 2162294502656314624, guid: a0532283226919447a091a2c2b96c203, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  scale: {x: 1, y: 1}
+  canDoRangedAttack: 0
+  bulletPrefab: {fileID: 0}
+  fireRate: 1.2
+  attackRange: 7
+  stopRange: 4
+  movementPattern: 6
+  preferredRange: 5
+  holdDuration: 2
+  advanceDuration: 2
+  retreatDuration: 1.5
+  zigzagFrequency: 3
+  zigzagAmplitude: 1.5
+  orbitRadius: 4
+  orbitSpeed: 2.5
+  sprintDuration: 0.4
+  freezeDuration: 0.5
+  fleeRange: 5.07
+  fleeSpeed: 4
+  chaseSpeed: 5
+  detectionAngle: 45
+  teleportDistance: 5
+  waitBeforeFire: 2
+  waitAfterFire: 3
+  projectileCount: 8
+  bulletSpeed: 5
+  TeleporterBullet: {fileID: 0}
+  ExplodesOnDeath: 0
+  ExplosionPrefab: {fileID: 0}
+  HobbitSpeed: 3
+  IronGolemSpearPrefab: {fileID: 0}
+  GolemSpeed: 3
+  spearCooldown: 2
+  golemChargeSpeed: 10
+  golemChargeDuration: 4
+  explodingHobbitPrefab: {fileID: 0}
+  lordOfHobbitsSpeed: 0
+  lightningBoltPrefab: {fileID: 0}
+  lightningSpearPrefab: {fileID: 0}
+  lightningArrowPrefab: {fileID: 0}
+  lightningBoltCount: 6
+  spearCount: 10
+  attackDuration: 3
+  attackCooldown: 2
+  spearBarrageDiagonalChance: 0.5
